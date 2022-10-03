@@ -1,6 +1,6 @@
 # Freelanser Portfolio
 
-[>>> Просмотр страницы Car Repair <<<](https://pavelreb.github.io/Freelanser_portfolio/)
+[>>> Просмотр страницы Freelanser Portfolio <<<](https://pavelreb.github.io/Freelanser_portfolio/)
 
 ![This is an image](https://github.com/Pavelreb/Freelanser_portfolio/blob/master/img/first-screen.jpg?raw=true)
 
