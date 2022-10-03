@@ -13,6 +13,7 @@
 - Cascading Style Sheets CSS3
 - CSS Flexible Box Layout (Flexbox)
 - JavaScript EC6
+- Animate On Scroll Library (Анимационая библиотека)
 
 ## Проведены следующие оптимизационные мероприятия:
 - Проверка кода на валидность
